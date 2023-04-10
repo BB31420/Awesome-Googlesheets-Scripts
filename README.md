@@ -18,10 +18,10 @@ To use the scripts in this repository, you will need to have a Google account an
 
   * RetrieveAPIModels.gs: ![Output](https://user-images.githubusercontent.com/110313117/230812591-746c6a2e-1072-446c-97a0-30971db4b64d.PNG)
   * BeforeAndAfterColon.gs: ![Resulting Edit](https://user-images.githubusercontent.com/110313117/230811553-2119defb-ad00-4da7-aac9-3128aac0a889.PNG)
-  * script3.gs: [Description of script 3]
-
+  * IterativeTextGen.gs: ![iterativetextgen](https://user-images.githubusercontent.com/110313117/230821890-673bd909-73b3-4b2f-bb89-7714ba85c811.PNG)
+  
 ## Contributing
-Contributions to this repository are welcome, submit a pull request. 
+Contributions to this repository are welcome, submit a pull request.
 
 ## License
 This repository is licensed under the Unlicense License. This means that you can use the scripts in this repository for any purpose, without any restrictions. However, please note that there is no warranty or liability for any damages that may result from using these scripts.
