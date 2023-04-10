@@ -6,7 +6,7 @@ To search for semicolons instead of colons, change value.indexOf(':') to value.i
 To limit the search range to a specific range of rows and columns, modify the argument passed to getValues(). For example, to search for colons only in rows 1-10 and columns A-D, change sheet.getDataRange().getValues() to sheet.getRange("A1:D10").getValues().
 */
 
-// This function formats the text in column D of a Google Sheets document to bold the text before a colon.
+// This function formats the text in column D of the active Google Sheets document to bold the text before a colon.
 function boldBeforeColon() {
   // Get the active sheet of the Google Sheets document.
   var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
@@ -40,7 +40,7 @@ function boldBeforeColon() {
 }
 
 
-// This function formats the text in a Google Sheets document to bold the text before a colon and set the text after the colon to a smaller font size.
+// This function formats the text of the active Google Sheets document to bold the text before a colon and set the text after the colon to a smaller font size.
 function boldBeforeColonSmallFontAfter() {
   // Get the active sheet of the Google Sheets document.
   var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
