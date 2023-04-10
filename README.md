@@ -17,7 +17,7 @@ To use the scripts in this repository, you will need to have a Google account an
 ## Script Descriptions
 
   * script1.gs: [Description of script 1]
-  * script2.gs: [Description of script 2]
+  * BeforeAndAfterColon.gs: ![Screenshot of results](https://user-images.githubusercontent.com/110313117/230811205-ab57c363-175f-4dae-9501-dcf790cdc139.PNG)
   * script3.gs: [Description of script 3]
 
 ## Contributing
