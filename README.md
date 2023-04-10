@@ -8,7 +8,7 @@ To use the scripts in this repository, you will need to have a Google account an
   2. Click on "Tools" in the menu bar and select "Script editor."
   3. In the script editor, click on "File" and select "Import."
   4. Choose the script file you want to import and click "Open."
-  5. Once the script file is imported, you can modify and run the script.
+  5. Once the script file is imported, you can modify and run the script by selecting the desired function name in the drop down menu.
 
 ## Permissions and Security
   1. *Only grant access and run permissions to scripts you have read and understood.* 
