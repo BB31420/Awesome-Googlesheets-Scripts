@@ -24,7 +24,7 @@ To use the scripts in this repository, you will need to have a Google account an
 Contributions to this repository are welcome, submit a pull request.
 
 ## License
-This repository is licensed under the Unlicense License. This means that you can use the scripts in this repository for any purpose, without any restrictions. However, please note that there is no warranty or liability for any damages that may result from using these scripts.
+This repository is licensed under the MIT License. 
 
 ## Acknowledgments
 Special thanks to my friends.
