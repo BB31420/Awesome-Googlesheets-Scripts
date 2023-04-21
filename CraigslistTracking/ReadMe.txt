@@ -2,7 +2,7 @@ Make a new Google Spreadsheet
 
 Import the three scripts to your app extensions for the sheet
 
-While having the initial sheet, run the first script GetCraigslistLocalities
+Run the first script GetCraigslistLocalities
 
 Then run the GetCraigslistCatogories 
 
