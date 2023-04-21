@@ -1,5 +1,5 @@
 /*
-Make a new sheet to populate information about craigslist for later use
+Clears and updates the Active sheet to populate information about craigslist for later use
 */
 
 function getCraigslistData() {
